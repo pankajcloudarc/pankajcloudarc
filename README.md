@@ -9,7 +9,8 @@ Welcome To My Place
 
 <hr>
 <h2 align="center">👋 Hi, I’m Pankaj</h2>
-DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger | Ex-HCLite | Passionate about writing Technical Blogs on various DevOps concepts.
+DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Ansible | Kubernetes 
+
 
 <br>
 <br>
@@ -23,6 +24,19 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
 
 <hr>
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+
+<br>
+
+> Awesome Octocats: https://octodex.github.com/
+
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+
+
+
+
+
+
+
 
    ## :zap: Skills
 
@@ -92,23 +106,5 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
    <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajcloudarc&&theme=radical&line_height=27&v=5" alt="pankaj"></p>
    <br>
-<h1 align="center">🧋🧋🧋</h1>
-<hr>
 
-<h1 align="center" >Have an idea? Let's connect:</h1>
 
-<div align="center" gap="20px">
-<a href="https://medium.com/@pankajcloudarc">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://github.com/pankajcloudarc">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
-</a>
-</div>
-
-<div align="center" gap="20px">
-<a href="https://twitter.com/pankajcloudarc">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
-</a>
-</div>
