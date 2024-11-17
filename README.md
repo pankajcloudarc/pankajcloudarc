@@ -6,7 +6,7 @@ DevOps Engineer @shiprocket | Docker | Linux | Jenkins | AWS | Git | Ansible | K
 <br>
 
 - 🔭 I’m currently **learning Terraform, Kubernetes**
-- 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS **
+- 💬 You can ask me about **Linux, Docker,Jenkins,Git-hub action, AWS **
 - ⚡ Fact **"Remember,,, Why you started."**
 
 
