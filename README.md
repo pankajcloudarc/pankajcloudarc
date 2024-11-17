@@ -1,6 +1,6 @@
 <hr>
 <h2 align="center">👋 Hi, I’m Pankaj</h2>
-DevOps Engineer @shiprocket | Docker | Linux | Jenkins | AWS | Git | Ansible | Kubernetes 
+DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Ansible | Kubernetes 
 
 <br>
 <br>
